@@ -12,17 +12,30 @@ author_profile: true
 {% endif %} -->
 
 
+<!-- Subheading for Talks -->
 <h2>Talks</h2>
+<ul>
+  {% for talk in site.talks %}
+  <li>
+    <strong>{{ talk.title }}</strong> <a href="/files/slides/{{talk.file_name}}.pdf">[slides]</a> <br>
+    <em>{{ talk.venue }}</em><br>
+    <span>{{ talk.date | date: "%B %d, %Y" }}</span> | <span>{{ talk.location }}</span>
+  </li>
+  {% endfor %}
+</ul>
 
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
-{% endfor %}
 
+<!-- Subheading for Posters -->
 <h2>Posters</h2>
-
-{% for post in site.posters reversed %}
-  {% include archive-single-talk.html %}
-{% endfor %}
+<ul>
+  {% for poster in site.posters %}
+  <li>
+    <strong>{{ poster.title }}</strong> <a href="/files/posters/{{poster.file_name}}.pdf">[poster]</a> <br>
+    <em>{{ poster.venue }}</em><br>
+    <span>{{ poster.date | date: "%B %d, %Y" }}</span> | <span>{{ poster.location }}</span>
+  </li>
+  {% endfor %}
+</ul>
 
 <!-- {% for post in site.talks reversed %}
   {% include archive-single-talk.html %}

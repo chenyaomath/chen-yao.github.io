@@ -1,15 +1,17 @@
 ---
 permalink: /
-title: "Welcome! I am Chen Yao (姚琛) ."
+title: "Welcome! I am Chen Yao."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a second-year PhD candidate majored in statistics at Boston University. I am fortunate to be advised by Prof. [Konstantinos Spiliopoulos](https://math.bu.edu/people/kspiliop/) and Prof. [Samuel Isaacson](https://math.bu.edu/people/isaacson/). My research interests encompass mathematical biology, numerical analysis, stochastic processes, partial and ordinary differential equations (PDEs/ODEs), and machine learning. 
+<div class="text-justify">
+<p> I am a second-year PhD candidate majored in statistics at Boston University. I am fortunate to be advised by Prof. <a href="https://math.bu.edu/people/kspiliop/">Konstantinos Spiliopoulos</a> and Prof. <a href="https://math.bu.edu/people/isaacson/">Samuel Isaacson</a>. My research interests encompass mathematical biology, numerical analysis, stochastic processes, partial and ordinary differential equations (PDEs/ODEs), and machine learning. </p>
 
-Prior to joining Boston University, I received my master's degree in applied mathematics from University of California, San Diego, and my bachelor's degree in applied mathematics from Nankai University, Tianjin, China. I also visited University of California, Berkeley as a visiting student during my undergraduate.
+<p> Prior to joining Boston University, I received my master's degree in applied mathematics from University of California, San Diego, and my bachelor's degree in applied mathematics from Nankai University, Tianjin, China. I also visited University of California, Berkeley as a visiting student during my undergraduate. </p>
+</div>
 
 ## Contact
 <strong>Email:</strong> c2yao (at) bu (dot) edu
