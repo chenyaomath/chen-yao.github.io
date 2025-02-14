@@ -265,7 +265,7 @@ defaults:
       path: ""
       type: publications
     values:
-      layout: single
+      layout: single            # layout of publications are in _layouts/single.html
       author_profile: true
       share: true
       comments: true
