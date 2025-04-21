@@ -12,7 +12,7 @@ title                    : "Chen Yao (姚琛)"
 title_separator          : "-"
 name                     : &name "Chen Yao (姚琛) "
 description              : &description "personal description"
-url                      : https://chenyaomath.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : "https://github.com/chenyaomath.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "chenyaomath/chenyaomath.github.io"
 
@@ -34,7 +34,7 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=VWNc-MAAAAAJ&hl=en&authuser=1&oi=ao"
   impactstory      : # URL
-  orcid            : # URL "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-7536-4728"
   semantic         : # URL
   pubmed           : # URL "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
