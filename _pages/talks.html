@@ -37,6 +37,28 @@ author_profile: true
   {% endfor %}
 </ul>
 
+
+<!-- Conferences Section -->
+<h2>Conferences</h2>
+<ul class="conference-list">
+  {% for conference in site.conferences %}
+  <li class="conference-item">
+    <strong>
+      <a href="{{ conference.external_url | default: conference.url }}" target="_blank" rel="noopener noreferrer">
+        {{ conference.title }}
+      </a>
+    </strong>
+    <div class="conference-meta">
+      {{ conference.venue }} |
+      <span>
+        {{ conference.start_date | date: "%B %d" }}-{{ conference.end_date | date: "%d, %Y" }}
+      </span> |
+      <span>{{ conference.location }}</span>
+    </div>
+  </li>
+  {% endfor %}
+</ul>
+
 <!-- {% for post in site.talks reversed %}
   {% include archive-single-talk.html %}
 {% endfor %} -->
