@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Chen Yao | BU" # "Chen Yao (姚琛)"
+title                    : "Chen Yao (姚琛)"
 title_separator          : "-"
 name                     : &name "Chen Yao (姚琛) "
 description              : &description "Chen Yao is a PhD student in Statistics at Boston University"

@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome! I am Chen Yao (姚琛)."
+title: "Welcome! I am Chen Yao."
 author_profile: true
 redirect_from: 
   - /about/
