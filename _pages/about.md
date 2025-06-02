@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <div class="text-justify">
-<p> I am a second-year PhD candidate from the <a href="https://www.bu.edu/math/">Department of Mathematics and Statistics</a> at <a href="https://www.bu.edu/">Boston University</a>. I am fortunate to be advised by Prof. <a href="https://math.bu.edu/people/kspiliop/">Konstantinos Spiliopoulos</a> and Prof. <a href="https://math.bu.edu/people/isaacson/">Samuel Isaacson</a>. My research interests encompass mathematical biology, numerical analysis, stochastic processes, partial and ordinary differential equations (PDEs/ODEs), and machine learning. </p>
+<p> I am a second-year PhD candidate from the <a href="https://www.bu.edu/math/">Department of Mathematics & Statistics</a> at <a href="https://www.bu.edu/">Boston University</a>. I am fortunate to be advised by Prof. <a href="https://math.bu.edu/people/kspiliop/">Konstantinos Spiliopoulos</a> and Prof. <a href="https://math.bu.edu/people/isaacson/">Samuel Isaacson</a>. My research interests encompass mathematical biology, numerical analysis, stochastic processes, partial and ordinary differential equations (PDEs/ODEs), and machine learning. </p>
 
 <p> Prior to joining Boston University, I obtained my master's degree from the <a href="https://math.ucsd.edu/">Department of Mathematics</a> at <a href="https://ucsd.edu/">University of California, San Diego</a>, and my bachelor's degree from the <a href="http://en.math.nankai.edu.cn/">Department of Mathematics</a> at <a href="https://en.nankai.edu.cn/">Nankai University</a>, Tianjin, China. I also visited University of California, Berkeley as a visiting student during my undergraduate. </p>
 </div>
